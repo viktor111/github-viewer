@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github-viewer/static/css/main.6375673b.chunk.css",
-    "main.js": "/github-viewer/static/js/main.d82efc67.chunk.js",
-    "main.js.map": "/github-viewer/static/js/main.d82efc67.chunk.js.map",
+    "main.css": "/github-viewer/static/css/main.9ad82551.chunk.css",
+    "main.js": "/github-viewer/static/js/main.39dbd555.chunk.js",
+    "main.js.map": "/github-viewer/static/js/main.39dbd555.chunk.js.map",
     "runtime-main.js": "/github-viewer/static/js/runtime-main.b6755635.js",
     "runtime-main.js.map": "/github-viewer/static/js/runtime-main.b6755635.js.map",
-    "static/js/2.15a89661.chunk.js": "/github-viewer/static/js/2.15a89661.chunk.js",
-    "static/js/2.15a89661.chunk.js.map": "/github-viewer/static/js/2.15a89661.chunk.js.map",
+    "static/js/2.bc4b9cf9.chunk.js": "/github-viewer/static/js/2.bc4b9cf9.chunk.js",
+    "static/js/2.bc4b9cf9.chunk.js.map": "/github-viewer/static/js/2.bc4b9cf9.chunk.js.map",
     "static/js/3.0b90e150.chunk.js": "/github-viewer/static/js/3.0b90e150.chunk.js",
     "static/js/3.0b90e150.chunk.js.map": "/github-viewer/static/js/3.0b90e150.chunk.js.map",
     "index.html": "/github-viewer/index.html",
-    "static/css/main.6375673b.chunk.css.map": "/github-viewer/static/css/main.6375673b.chunk.css.map",
-    "static/js/2.15a89661.chunk.js.LICENSE.txt": "/github-viewer/static/js/2.15a89661.chunk.js.LICENSE.txt"
+    "static/css/main.9ad82551.chunk.css.map": "/github-viewer/static/css/main.9ad82551.chunk.css.map",
+    "static/js/2.bc4b9cf9.chunk.js.LICENSE.txt": "/github-viewer/static/js/2.bc4b9cf9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6755635.js",
-    "static/js/2.15a89661.chunk.js",
-    "static/css/main.6375673b.chunk.css",
-    "static/js/main.d82efc67.chunk.js"
+    "static/js/2.bc4b9cf9.chunk.js",
+    "static/css/main.9ad82551.chunk.css",
+    "static/js/main.39dbd555.chunk.js"
   ]
 }
